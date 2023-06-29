@@ -1,0 +1,110 @@
+{
+    "students": [
+      {
+        "name": "islam ali",
+        "age": "17",
+        "address": "Cairo",
+        "gender": "Male",
+        "email": "islam.ali@example.com",
+        "mobile": "01234567890",
+        "id": 1
+      },
+      {
+        "name": "mona salem",
+        "age": "19",
+        "address": "Elshorouk",
+        "gender": "Female",
+        "email": "mona.salem@example.com",
+        "mobile": "01098765432",
+        "id": 2
+      },
+      {
+        "name": "mohammed salah",
+        "age": "18",
+        "address": "Giza",
+        "gender": "Male",
+        "email": "mohamed.salah@example.com",
+        "mobile": "01098765432",
+        "id": 3
+      },
+      {
+        "name": "Nour Ahmed",
+        "age": "18",
+        "gender": "Female",
+        "address": "Luxor",
+        "email": "nour.ahmed@example.com",
+        "mobile": "01543210987",
+        "id": 4
+      },
+      {
+        "name": "Omar Abdelaziz",
+        "age": "21",
+        "gender": "Male",
+        "address": "Aswan",
+        "email": "omar.abdelaziz@example.com",
+        "mobile": "01024681357",
+        "id": 5
+      },
+      {
+        "id": 6,
+        "name": "Aya Mahmoud",
+        "age": 17,
+        "gender": "Female",
+        "address": "6th October",
+        "email": "aya.mahmoud@example.com",
+        "mobile": "01298765432"
+      },
+      {
+        "id": 7,
+        "name": "Karim Mansour",
+        "age": 19,
+        "gender": "Male",
+        "address": "Hurghada",
+        "email": "karim.mansour@example.com",
+        "mobile": "01567894532"
+      },
+      {
+        "id": 8,
+        "name": "Yara Ahmed",
+        "age": 20,
+        "gender": "Female",
+        "address": "Maady",
+        "email": "yara.ahmed@example.com",
+        "mobile": "01087654321"
+      },
+      {
+        "id": 9,
+        "name": "Ali Mahmoud",
+        "age": 18,
+        "gender": "Male",
+        "address": "Mansoura",
+        "email": "ali.mahmoud@example.com",
+        "mobile": "01234567891"
+      },
+      {
+        "name": "Sara Abdelrahman",
+        "age": "21",
+        "gender": "Female",
+        "address": "Fayoum",
+        "email": "sara.abdelrahman@example.com",
+        "mobile": "01123456154",
+        "id": 10
+      },
+      {
+        "name": "Ahmed Hassan",
+        "age": "24",
+        "address": "Cairo",
+        "email": "ahmed.hassan@example.com",
+        "mobile": "01098765423",
+        "id": 11
+      },
+      {
+        "name": "Ahmed Mohamed",
+        "age": "22",
+        "address": "Helwan",
+        "email": "ahmed.mohamed@example.com",
+        "mobile": "01098546154",
+        "id": 12
+      }
+    ]
+  }
